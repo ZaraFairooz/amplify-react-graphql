@@ -1,0 +1,24 @@
+18:54:28 From Celestial to Everyone:
+	hey!
+18:54:33 From Celestial to Everyone:
+	it's macNcheese
+18:57:22 From Celestial to Everyone:
+	https://notability.com/n/1khuxpaPdCo959kiSN1SEd
+20:06:08 From Celestial to Everyone:
+	brb i need a snack break lol
+20:15:12 From Celestial to Everyone:
+	sorry im snacking rn, but doesnt N x N mean the cartesian product?
+20:27:05 From Celestial to Everyone:
+	from class 10 notes
+20:52:46 From Celestial to Everyone:
+	hey y'all i gotta hop off and work on a couple other assignments.... let me know if you figure out #4?
+20:53:00 From Augustine Ayoub to Everyone:
+	sure
+21:00:29 From Zara Fairooz to Everyone:
+	Img 4927 comes first
+21:24:24 From Zara Fairooz to Everyone:
+	Bfair007@ucr.edu
+22:19:57 From Augustine Ayoub to Everyone:
+	Obviously, A is either innocent or guilty. But whichever he is, D is guilty. Here's the proof. First, suppose A is innocent. Then, by (4), D is guilty. Now, suppose instead that A is guilty. Then one of B and C is also guilty (by 2) and if B is guilty, so is C (by 1, since we're assuming for the moment that A is guilty). This shows that if A is guilty, so is C regardless of whether B is. But (3) tells us that if C is guilty, so is D. Putting these two facts together, we see that if A is guilty, so is D. So regardless of A's status, D is guilty. The rest are uncertain (it's possible for all we're told that D acted alone, or D may have acted with A, B, and C, among other possibilities)
+22:33:24 From Augustine Ayoub to Everyone:
+	https://notability.com/n/2DOcDTuKd9C8dyuKGxEyCZ

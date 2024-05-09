@@ -1,0 +1,18 @@
+09:34:46 From Rongzhong Ye To Everyone:
+	https://www.davideaversa.it/blog/how-to-design-a-pokemon-like-combat-system-chapter-1/
+09:39:01 From William Wang To Everyone:
+	git push --set-upstream origin wwang262/battle
+09:42:43 From Rongzhong Ye To Everyone:
+	git branch -r
+09:42:52 From Rongzhong Ye To Everyone:
+	U can see the remote’s repo
+09:49:18 From William Wang To Everyone:
+	git checkout <branch name>
+09:51:20 From Rongzhong Ye To Everyone:
+	git branch -r
+09:51:38 From Rongzhong Ye To Everyone:
+	git branch -a
+09:51:49 From Rongzhong Ye To Everyone:
+	R remote
+09:51:52 From Rongzhong Ye To Everyone:
+	A all

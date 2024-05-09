@@ -1,0 +1,8 @@
+19:07:23 From Zara Fairooz to Everyone:
+	T(x)= 10 + int(4sin(pi(x)/6) + 1) dx - int (3x/10+3x) dx
+19:13:19 From Zara Fairooz to Everyone:
+	Whenever you are done let me know
+19:19:47 From James Drennen to Everyone:
+	0.357143
+19:54:10 From Zara Fairooz to Everyone:
+	bfairooz0@gmail.com

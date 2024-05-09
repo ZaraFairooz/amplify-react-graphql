@@ -1,0 +1,4 @@
+13:53:50 From Rongzhong Ye To Everyone:
+	cs100.cs.ucr.edu
+13:59:29 From Rongzhong Ye To Everyone:
+	ssh <your_CS_username>@cs100.cs.ucr.edu

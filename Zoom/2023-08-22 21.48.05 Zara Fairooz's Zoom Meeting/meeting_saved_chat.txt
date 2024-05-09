@@ -1,0 +1,14 @@
+21:48:05 From Zara Fairooz To Everyone:
+	HailstoneTestingBranch
+21:49:29 From Zara Fairooz To Everyone:
+	// HAILSTONE TESTS
+	
+	TEST(HailstoneTests, SatisfiesHailstone) {
+	    // Test various inputs to cover different branches in the function
+	    EXPECT_FALSE(sequence::satisfiesHailstone(0));  // Should return false
+	    EXPECT_TRUE(sequence::satisfiesHailstone(1));   // Should return true
+	    EXPECT_TRUE(sequence::satisfiesHailstone(4));   // Should return true
+	    EXPECT_TRUE(sequence::satisfiesHailstone(5));   // Should return true
+	}
+22:05:19 From Samara Miramontes To Everyone:
+	#include "gtest/gtest.h"	#include "gmock/gmock.h"	#include "../include/Triangle.h"	#include "../include/Hailstone.h"	#include "../include/Awards.h"
